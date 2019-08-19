@@ -1,3 +1,3 @@
-# Game Development Bootcamp by Coding Blocks, Noida
+# The First Game I built 
 
 Simple game made using HTML5, Phaser and JS. 
